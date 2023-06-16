@@ -14,6 +14,9 @@ body {
 header {
     color: white; 
     background-color: rgb(66, 41, 41); 
+    position: fixed; 
+    width: 100%; 
+    top: 0; 
 } 
 
 h1 {
@@ -34,9 +37,21 @@ h1 a:hover {
     color: rgb(255, 212, 218); 
 } 
 
+.CherryIcon1 {
+    position: absolute; 
+    top: 0.25rem; 
+    left: 0.25rem; 
+} 
+
+.CherryIcon2 {
+    position: absolute; 
+    top: 0.25rem; 
+    right: 0.25rem; 
+} 
+
 .BlackMode {
     position: fixed; 
-    top: 10rem; 
+    top: 10.5rem; 
     left: 5rem; 
 } 
 
@@ -46,8 +61,8 @@ h1 a:hover {
     font-size: x-large; 
     text-decoration: none; 
     border-radius: 15px;  
-    padding-top: 9px; padding-bottom: 10px; 
-    padding-left: 17px; padding-right: 17px; 
+    padding-top: 11px; padding-bottom: 12px; 
+    padding-left: 19px; padding-right: 19px; 
 } 
 
 nav ul {
@@ -95,6 +110,7 @@ main {
     justify-content: center;
     align-items: center; 
     margin-bottom: 2rem; 
+    margin-top: 7rem;
 } 
 
 article { 
