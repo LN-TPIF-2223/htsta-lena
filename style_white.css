@@ -144,8 +144,6 @@ footer {
     background-color: rgb(255, 212, 218); 
     height: 5rem; 
     margin-top: auto; 
-    display: grid; 
-    grid-template-columns: 1fr 1fr; 
 } 
 
 footer a {
@@ -158,10 +156,3 @@ footer a {
 footer a:hover {
     color: white; 
 } 
-
-footer p { 
-    text-align: right; 
-    padding: 5px; 
-    padding-top: 2px; 
-    margin: 0; 
-}
