@@ -8,7 +8,7 @@ html {
 
 body {
     background-color: rgb(44, 44, 44); 
-    font-family: "Zen Maru Gothic"; 
+    font-family: "Zen Maru Gothic", sans-serif; 
     margin: auto; 
     min-height: 100vh;
     display: flex; 
@@ -54,7 +54,7 @@ h1 a:hover {
 
 .WhiteMode {
     position: fixed; 
-    top: 10.5rem; 
+    top: 10.4rem; 
     left: 5rem; 
 } 
 
