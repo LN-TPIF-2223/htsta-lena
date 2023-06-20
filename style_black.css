@@ -52,13 +52,13 @@ h1 a:hover {
     right: 0.25rem; 
 } 
 
-.WhiteMode {
+.BrightMode {
     position: fixed; 
     top: 10.4rem; 
     left: 5rem; 
 } 
 
-.WhiteMode a {
+.BrightMode a {
     color: black; 
     background-color: white; 
     font-size: x-large; 
@@ -69,7 +69,7 @@ h1 a:hover {
     transition: 0.3s; 
 } 
 
-.WhiteMode a:hover {
+.BrightMode a:hover {
     background-color: rgb(237, 237, 237); 
 }
 
@@ -154,4 +154,10 @@ footer a {
 
 footer a:hover {
     color: white; 
+} 
+
+.Chibi1 {
+    display: block; 
+    margin-left: auto; margin-right: auto; 
+    margin-top: -70px; 
 } 
