@@ -70,7 +70,7 @@ h1 a:hover {
 } 
 
 .BrightMode a:hover {
-    background-color: rgb(237, 237, 237); 
+    background-color: rgb(225, 225, 225); 
 }
 
 nav ul {
@@ -130,7 +130,8 @@ article {
     background-color: black; 
     border-radius: 13px; 
     width: 800px; 
-    padding: 18px; 
+    padding: 2rem; 
+    padding-top: 1.5rem; 
     margin: 1rem; 
 } 
 
@@ -156,8 +157,8 @@ footer a:hover {
     color: white; 
 } 
 
-.Chibi1 {
+.indeximg {
     display: block; 
     margin-left: auto; margin-right: auto; 
-    margin-top: -70px; 
+    margin-top: 8px;
 } 

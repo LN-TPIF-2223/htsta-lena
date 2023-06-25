@@ -129,8 +129,14 @@ article {
     background-color: rgb(245, 245, 245); 
     border-radius: 13px; 
     width: 800px; 
-    padding: 18px; 
+    padding: 2rem; 
+    padding-top: 1.6rem; 
     margin: 1rem; 
+} 
+
+article li {
+    list-style-type: "🌸"; 
+    margin-top: 1.5rem; 
 } 
 
 p {
@@ -155,8 +161,14 @@ footer a:hover {
     color: white; 
 } 
 
-.Chibi1 {
+.indeximg {
     display: block; 
     margin-left: auto; margin-right: auto; 
-    margin-top: -70px;
+    margin-top: 8px;
+} 
+
+.hanamiimg {
+    display: block; 
+    margin-left: auto; margin-right: auto; 
+    margin-top: 8px;
 } 
