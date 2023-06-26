@@ -108,6 +108,7 @@ nav li {
 
 main { 
     font-size: larger; 
+    text-align: justify; 
     display: flex;
     justify-content: center;
     align-items: center; 
