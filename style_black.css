@@ -163,6 +163,10 @@ footer a:hover {
     color: white; 
 } 
 
+.currentlink a {
+    color: white; 
+}
+
 .indeximg {
     display: block; 
     margin-left: auto; margin-right: auto; 
